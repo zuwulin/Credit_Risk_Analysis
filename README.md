@@ -1,6 +1,6 @@
 # Credit Risk Analysis
 ## Overview
-The following analysis was performed in order to investigate whether any favoring bias exists within the amazon purchasing community when using vine paid review program versus unpaid regular reviews provided by customers when it comes to downloadable video game content. The investigation is done because it is possible that paid reviews will result in more favourable item reviews.
+The following analysis was performed in order to investigate which of the six working algorithms is most suited to predict potential risky creditors based on the readily available past loans' information. The six models investigated in this analysis are, as follows: Random Oversampling, Synthetic Minority Oversampling Technique (SMOTE), Cluster Centroid Undersampling, SMOTEENN, Balanced Random Forest Classifier (BRFC), and Easy Ensemble Classifier (EEC).
 
 ## Results
 The results of a 6-model supervised machine learning analysis are presented below:
