@@ -4,7 +4,10 @@ The following analysis was performed in order to investigate which of the six wo
 
 ## Results
 The results of a 6-model supervised machine learning analysis are presented below:
-xxx.
+### Random versampling
+### SMOTE
+### CC Undersampling
+### SMOTEENN
 
 ## Summary
 
