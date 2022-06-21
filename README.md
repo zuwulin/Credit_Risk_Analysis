@@ -48,7 +48,7 @@ The results of a 6-model supervised machine learning analysis are presented belo
 ## Summary
 
 ### Key Takeaway
-xxx.
+It appears that most of the machine learning algorithms produced approximately similar results in their judgement, with 3 out of the 4 available algorithm results estimating the accuracy rate at about 64-65% average. The precision rates, moreso, are exactly the same across all examined statistical algorithms. However, the recall rates vary significantly across the different algorithms.
 
 ### Recommendations
-xxx.
+It is possible that the EEC or BRFC models would produce a better precision rate, but I was unable to utilize them for the current analysis, thus the results are based off of the four models provided above. As such, I cannot choose a model that I would recommend over the others in the current scenario, as they are all predicting the results with approximately the same precision rate (although, I would advise against the CC undersampling, as it yielded the lowest precision rate across the board).
